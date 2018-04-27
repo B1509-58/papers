@@ -1,5 +1,5 @@
 # References
-Curated list of awesome works in artificial intelligence, machine learning, math ...
+Curated list of awesome works in artificial intelligence, machine learning, econophysics ...
 
 ## Contents
 
