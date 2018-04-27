@@ -16,7 +16,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 #### Artificial Intelligence Concepts
 * [A Computational Approach to Edge Detection](https://pdfs.semanticscholar.org/55e6/6333402df1a75664260501522800cf3d26b9.pdf) - John Canny, 1986
 * [Creativity and Artificial Intelligence](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.667.3710&rep=rep1&type=pdf) - Margaret Boden, 1998
-* [Evolution of artificial intelligence](https://ac.els-cdn.com/S0004370206000907/1-s2.0-S0004370206000907-main.pdf?_tid=7f0889f7-2cea-4517-a41e-3a4c04ff9233&acdnat=1524851704_d40aede993a91ff87b59ba95e776b31a) - Lee Spector, 2006.
+* [Evolution of artificial intelligence](https://ac.els-cdn.com/S0004370206000907/1-s2.0-S0004370206000907-main.pdf?_tid=2a00dc1d-0564-49be-aeef-0c87b2355eb6&acdnat=1524865313_345d9e3b20d2436a115277bee9d70c10) - Lee Spector, 2006.
 * [Universal Intelligence: A Definition of Machine Intelligence](http://www.vetta.org/documents/legg-hutter-2007-universal-intelligence.pdf) - Shane Legg, Marcus Hutter, 2007.
 * [From Machine Learning to Machine Reasoning](https://arxiv.org/pdf/1102.1808.pdf) - Leeon Bottou, 2011.
 * [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf) - Alex Graves, Greg Wayne, Ivo Danihelka, 2014.
