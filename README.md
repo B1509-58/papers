@@ -1,6 +1,6 @@
 # References
 Curated list of awesome works in artificial intelligence, machine learning, econophysics ...
-![](https://media.giphy.com/media/IkDAaJVVj3W1y/giphy.gif)
+![](http://3.bp.blogspot.com/-BbvUWD0Iiw8/TdxKPjmcCzI/AAAAAAAAAf0/T5Lu_T_dbcM/s1600/multivac.jpg)
 
 ## Contents
 
