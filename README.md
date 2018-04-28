@@ -45,7 +45,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 * [Very Deep Convolutional Networks for Text Classification](https://arxiv.org/pdf/1606.01781.pdf) - Alexis Conneau, Holger Schwenk, Yann Le Cun, Loic Barrault, 2017.
 * [Gradient Tree Boosted Tobit Models for Default Prediction](https://arxiv.org/pdf/1711.08695.pdf) - Fabio Sigrist, Christoph Hirnschall, 2018.
 * [Automated Classification of Text Sentiment](https://arxiv.org/pdf/1804.01963.pdf) - Emmanuel Dufourq, Bruce A. Bassett, 2018.
-
+* [Naïve Bayes Classifier](https://uc-r.github.io/naive_bayes) - UC Business Analytics R Programming Guide.
 
 #### Complex Systems
 * [An Unsolvable Problem of Elementary Number Theory](https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf) - Alonzo Church, 1936.
