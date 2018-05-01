@@ -13,7 +13,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
     - [Cryptocurrency](#cryptocurrency)
     
 ## Hot News
-* [Entangled massive mechanical oscillators](https://arxiv.org/pdf/1711.01640.pdf) - C. F. Ockeloen-Korppi, E. Damskagg, J.M. Pirkkalainen, A.A. Clerk, F. Massel, M.J.Woolley and M. A. Sillanpaa, 2018
+* [Entangled massive mechanical oscillators](https://arxiv.org/pdf/1711.01640.pdf) - C. F. Ockeloen-Korppi, E. Damskagg, J.M. Pirkkalainen, A.A. Clerk, F. Massel, M.J.Woolley and M. A. Sillanpaa, updated at 2018-05-01
 
 ## Papers
 #### Artificial Intelligence Concepts
