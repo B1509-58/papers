@@ -4,16 +4,18 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 
 ## Contents
 
+- [Hot News](#hot-news)
 - [Papers and Posts](#papers)
     - [Artificial Intelligence Concepts](#artificial-intelligence-concepts)
     - [Machine Learning Models](#machine-learning-models)
     - [Complex Systems](#complex-systems)
     - [Econophysics](#econophysics)
     - [Cryptocurrency](#cryptocurrency)
+    
+## Hot News
+* [Entangled massive mechanical oscillators](https://arxiv.org/pdf/1711.01640.pdf) - C. F. Ockeloen-Korppi, E. Damskagg, J.M. Pirkkalainen, A.A. Clerk, F. Massel, M.J.Woolley and M. A. Sillanpaa - 2018
 
 ## Papers
-
-
 #### Artificial Intelligence Concepts
 * [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) - Isaac Asimov
 * [A Computational Approach to Edge Detection](https://pdfs.semanticscholar.org/55e6/6333402df1a75664260501522800cf3d26b9.pdf) - John Canny, 1986
