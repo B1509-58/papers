@@ -32,7 +32,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 * [An Approximation of the Universal Intelligence Measure](https://arxiv.org/pdf/1109.5951v2.pdf) - Shane Legg, Joel Veness, 2011.
 * [DeepDream - a code example for visualizing Neural Networks](https://web.archive.org/web/20150708233542/http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html) - Alexander Mordvintsev, Christopher Olah, Mike Tyka, 2015.
 * [Gallery - Inceptionism: Going deeper into Neural Networks](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB).
-* [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW) - Kris Cao, Angeliki Lazaridou, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark, 2018
+* [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW) - Kris Cao, Angeliki Lazaridou, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark, 2018.
 
 
 #### Machine Learning Models 
@@ -62,6 +62,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 * [Challenges in Complex Systems Science](https://arxiv.org/pdf/1204.4928.pdf) - Maxi San Miguel1, Jeffrey H. Johnson, Janos Kerteszz, Kimmo Kaski, Albert Diaz-Guilera, Robert S. MacKay, Vittorio Loreto, Peeter Erdi, and Dirk Helbing, 2012.
 * [Detecting chaos in a complex system](https://arxiv.org/pdf/1307.8021.pdf) - Boyan Hristozov Petkov, 2013.
 * [Zika and Other Potential Causes of Microcephaly in Brazil](http://necsi.edu/research/social/pandemics/zikacauses.html) - Raphael Parens, Yaneer Bar-Yam, 2016.
+* [Steering the Economy Toward Growth](http://necsi.edu/research/economics/steeringecon.pdf) - Yaneer Bar-Yam, 2018.
 
 
 #### Econophysics
