@@ -32,6 +32,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 * [An Approximation of the Universal Intelligence Measure](https://arxiv.org/pdf/1109.5951v2.pdf) - Shane Legg, Joel Veness, 2011.
 * [DeepDream - a code example for visualizing Neural Networks](https://web.archive.org/web/20150708233542/http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html) - Alexander Mordvintsev, Christopher Olah, Mike Tyka, 2015.
 * [Gallery - Inceptionism: Going deeper into Neural Networks](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB).
+* [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW) - Kris Cao, Angeliki Lazaridou, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark, 2018
 
 
 #### Machine Learning Models 
