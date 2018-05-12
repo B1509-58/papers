@@ -11,6 +11,8 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
     - [Complex Systems](#complex-systems)
     - [Econophysics](#econophysics)
     - [Cryptocurrency](#cryptocurrency)
+    - [Not Indexed](#not-indexed)
+    
     
 ## Hot News
 * [Entangled massive mechanical oscillators](https://arxiv.org/pdf/1711.01640.pdf) - C. F. Ockeloen-Korppi, E. Damskagg, J.M. Pirkkalainen, A.A. Clerk, F. Massel, M.J.Woolley and M. A. Sillanpaa, updated at 2018-05-01
@@ -84,3 +86,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto.
 * [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 * [The Stellar Consensus Protocol](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) - DAVIDMAZIE RES.
+
+#### Not Indexed
+* [The Knowledge Complexity of Interactive Proof-System](https://groups.csail.mit.edu/cis/pubs/shafi/1985-stoc.pdf) - Shafi Goldwasser, Silvio Micali, Charles Rackoff, 1989
+
