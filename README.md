@@ -17,6 +17,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 ## Hot News
 * [Entangled massive mechanical oscillators](https://arxiv.org/pdf/1711.01640.pdf) - C. F. Ockeloen-Korppi, E. Damskagg, J.M. Pirkkalainen, A.A. Clerk, F. Massel, M.J.Woolley and M. A. Sillanpaa, updated at 2018-05-01
 
+
 ## Papers
 #### Artificial Intelligence Concepts
 * [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) - Isaac Asimov
@@ -35,6 +36,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 * [DeepDream - a code example for visualizing Neural Networks](https://web.archive.org/web/20150708233542/http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html) - Alexander Mordvintsev, Christopher Olah, Mike Tyka, 2015.
 * [Gallery - Inceptionism: Going deeper into Neural Networks](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB).
 * [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW) - Kris Cao, Angeliki Lazaridou, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark, 2018.
+* [LEARNING TO REINFORCEMENT LEARN](https://arxiv.org/pdf/1611.05763.pdf) - JX Wang, Z Kurth-Nelson, D Tirumala, H Soyer, JZ Leibo, R Munos, C Blundell, D Kumaran, M Botvinick, 2017.
 
 
 #### Machine Learning Models 
