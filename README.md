@@ -29,7 +29,7 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 * [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf) - Alex Graves, Greg Wayne, Ivo Danihelka, 2014.
 * [The Dropout Learning Algorithm](https://pdfs.semanticscholar.org/f0af/49cecc1713fece9f285143d165e9cbc622f8.pdf) - Pierre Baldi, Peter Sadowski, 2014.
 * [Probabilistic Neural Programs](https://arxiv.org/pdf/1612.00712.pdf) - Kenton W. Murray, Jayant Krishnamurthy, 2016.
-* [Human-Level Artificial General Intelligence and the Possibility of a Technological Singularity](https://pdfs.semanticscholar.org/d9d6/17c4d6937cdb08fb9c2f1c2f781f6d597cae.pdf) - Ben Goertzel.
+* [Human-Level Artificial General Intelligence and the Possibility of a Technological Singularity](https://ac.els-cdn.com/S0004370207001464/1-s2.0-S0004370207001464-main.pdf?_tid=82146bad-5128-47b1-adba-47ac2b62f1cc&acdnat=1544798729_541a8c9d66ae8d8c7d986c85621099ba) - Ben Goertzel.
 * [The Future of Memory:Remembering, Imagining, and the Brain](http://static1.1.sqspcdn.com/static/f/1096238/22043246/1361990370157/FutureMemory--Neuron12.pdf?token=b5gB3ycz3e%2BmKnQQCW3%2FvwZyHwE%3D) - Daniel L. Schacter, Donna Rose Addis, Demis Hassabis, Victoria C. Martin, R. Nathan Spreng, Karl K. Szpunar, 2012.
 * [Dependency Recurrent Neural Language Models for Sentence Completion](https://cs.nyu.edu/~mirowski/pub/MirowskiVlachos_ACL2015_DependencyTreeRNN.pdf) - Piotr Mirowski, Andreas Vlachos.
 * [An Approximation of the Universal Intelligence Measure](https://arxiv.org/pdf/1109.5951v2.pdf) - Shane Legg, Joel Veness, 2011.
