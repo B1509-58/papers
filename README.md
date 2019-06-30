@@ -16,6 +16,8 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
     
 ## Hot Papers
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) - Ricky T. Q. Chen, Yulia Rubanova*, Jesse Bettencourt, David Duvenaud
+* [How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits](https://arxiv.org/pdf/1905.09749.pdf) - Craig Gidney and Martin Eker
+
 
 
 ## Papers
@@ -92,3 +94,4 @@ Curated list of awesome works in artificial intelligence, machine learning, econ
 #### Not Indexed
 * [The Knowledge Complexity of Interactive Proof-System](https://groups.csail.mit.edu/cis/pubs/shafi/1985-stoc.pdf) - Shafi Goldwasser, Silvio Micali, Charles Rackoff, 1989
 * [Entangled massive mechanical oscillators](https://arxiv.org/pdf/1711.01640.pdf) - C. F. Ockeloen-Korppi, E. Damskagg, J.M. Pirkkalainen, A.A. Clerk, F. Massel, M.J.Woolley and M. A. Sillanpaa, updated at 2018-05-01
+* [How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits](https://arxiv.org/pdf/1905.09749.pdf) - Craig Gidney and Martin Eker
